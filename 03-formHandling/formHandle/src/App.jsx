@@ -23,7 +23,9 @@ const App = () =>
       }}>
         <input type="text" placeholder='Enter My Name' />
         <button >Submit</button>
+         <button >Submit Now</button>
       </form>
+      
     </div>
   )
 }
